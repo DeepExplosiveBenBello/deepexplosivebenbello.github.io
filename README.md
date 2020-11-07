@@ -1,5 +1,5 @@
 # website-DeepBenBello.ai
-Repository to collect code and material for [deepbenbello.ai](deepbenbello.ai) website.
+Repository to collect code and material for [deepbenbello.ai](https://deepexplosivebenbello.github.io) website.
 
 ## Introduction
 Any organisation has its own website. This is ours and also our first project.
